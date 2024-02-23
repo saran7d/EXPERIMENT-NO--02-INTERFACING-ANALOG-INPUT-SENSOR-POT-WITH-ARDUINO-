@@ -1,7 +1,9 @@
 ## INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
-
-
+## NAME: SARAN S S
+## REG NO: 212221220048
+## DEPT: IT
+## DATE: 23/02/2024
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
@@ -101,10 +103,11 @@ void loop()
 ```
 
 
-##Schematic Diagram:
+## GRAPH:
 
 
-![Screenshot 2024-02-23 154442](https://github.com/saran7d/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/104412179/467e2ef4-f74b-4dec-8ffa-b5492c2e68c4)
+![Screenshot 2024-02-23 155307](https://github.com/saran7d/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/104412179/361ca148-5cce-4341-a9b2-369bd967e5c7)
+
 
 
 
@@ -120,8 +123,8 @@ void loop()
 ## OFF
 ![Screenshot 2024-02-23 155137](https://github.com/saran7d/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/104412179/1b325e84-63f0-4561-964e-c63e0972049e)
 
-## GRAPH
-![Screenshot 2024-02-23 155307](https://github.com/saran7d/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/104412179/60c7986e-36b2-4fb7-ac88-fa500d40485a)
+## Schematic diagram
+![Screenshot 2024-02-23 154442](https://github.com/saran7d/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/104412179/467e2ef4-f74b-4dec-8ffa-b5492c2e68c4)
 
 **
 
